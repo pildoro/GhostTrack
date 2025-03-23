@@ -11,7 +11,7 @@ import requests
 import time
 import os
 import phonenumbers
-from phonenumbers import carrier, geocoder, timezone
+from +52 33 2827 5301 import carrier, geocoder, timezone
 from sys import stderr
 
 Bl = '\033[30m'  # VARIABLE BUAT WARNA CUYY
@@ -80,7 +80,7 @@ def IP_Track():
 @is_option
 def phoneGW():
     User_phone = input(
-        f"\n {Wh}Enter phone number target {Gr}Ex [+6281xxxxxxxxx] {Wh}: {Gr}")  # INPUT NUMBER PHONE
++52 33 2827 5301] {Wh}: {Gr}")  # INPUT NUMBER PHONE
     default_region = "ID"  # DEFAULT NEGARA INDONESIA
 
     parsed_number = phonenumbers.parse(User_phone, default_region)  # VARIABLE PHONENUMBERS
