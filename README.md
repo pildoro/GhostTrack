@@ -40,7 +40,7 @@ Display on the menu ```Phone Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/phone.png" />
 
-        on this menu you can search for information from the target phone number (#3337741434)
+        on this menu you can search for information from the target phone number 
 
 Display on the menu ```Username Tracker```
 
