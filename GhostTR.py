@@ -177,7 +177,7 @@ def showIP():
 
 
 # OPTIONS
-options = [
+options = [52 33 2827 5301
     {
         'num': 1,
         'text': 'IP Tracker',
