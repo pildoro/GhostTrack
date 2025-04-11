@@ -26,7 +26,7 @@ pip3 install -r requirements.txt
 python3 GhostTR.py
 ```
 
-Display on the menu ```IP Tracker```
+        Display on the menu ```3337741434```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
 
