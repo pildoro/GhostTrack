@@ -24,9 +24,7 @@ git clone https://github.com/HunxByts/GhostTrack.git
 cd GhostTrack
 pip3 install -r requirements.txt
 python3 GhostTR.py
-```
-
-        Display on the menu ```3337741434```
+```Display on the menu ```3337741434```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
 
@@ -44,7 +42,7 @@ Display on the menu ```Phone Tracker```
 
 Display on the menu ```Username Tracker```
 
-<img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
+        <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
 on this menu you can search for information from the target username on social media
 
 <details>
