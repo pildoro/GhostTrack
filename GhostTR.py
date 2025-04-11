@@ -10,7 +10,7 @@ import json
 import requests
 import time
 import os
-import phonenumbers
+import phonenumbers #3328275301
 from +52 33 2827 5301 import carrier, geocoder, timezone
 from sys import stderr
 
