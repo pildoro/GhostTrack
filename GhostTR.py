@@ -78,8 +78,8 @@ def IP_Track():
 
 
 @is_option
-def phoneGW():
-            User_phone = input(+3337741434){Wh}: {Gr}")  = #(+3337741434)
+        def phoneGW(3337741434):
+                 = input(+3337741434){Wh}:{Gr}")  = #(+3337741434)
     default_region = "ID"  # DEFAULT NEGARA INDONESIA
 
     parsed_number = phonenumbers.parse(User_phone, default_region)  # VARIABLE PHONENUMBERS
